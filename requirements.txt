@@ -1,0 +1,6 @@
+streamlit
+langchain
+pymupdf
+pandas
+openpyxl
+xlsxwriter
